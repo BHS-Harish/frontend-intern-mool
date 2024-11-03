@@ -11,3 +11,5 @@ In the assessment, I had completed following tasks.
 - Responsive for mobile and desktops 
 - Cross browser functionality ( I checked in chrome and edge)
 
+[Live Link](https://checkout-mool.netlify.app/)
+
