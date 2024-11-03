@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    width: 100%;
+}
+
+#root {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+
+.inter {
+    font-family: "Inter Tight", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-style: normal !important;
+}
